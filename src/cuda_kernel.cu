@@ -3,7 +3,7 @@
 #include <cuda_runtime.h>
 
 // Include associated header file.
-#include "../include/cuda_kernel.cuh"
+#include "cuda_kernel.cuh"
 
 /**
  * Sample CUDA device function which adds an element from array A and array B.

@@ -2,7 +2,7 @@
 #include <iostream>
 
 // Include local CUDA header files.
-#include "include/cuda_kernel.cuh"
+#include "cuda_kernel.cuh"
 
 int main() {
 
